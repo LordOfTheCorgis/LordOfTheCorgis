@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=27F79E&background=272727&width=800&lines=Welcome+to+My+GitHub+Profile!;I+love+coding+%F0%9F%92%BB+and+creating+cool+projects!;Check+out+my+repos+below+%E2%9C%A8">
+</div>
 
-<!--
-**LordOfTheCorgis/LordOfTheCorgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ My Tools and Technologies  
+![Tools](https://skillicons.dev/icons?i=html,css,js,react,python,java,c,git,github,vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌌 A Little About Me  
+```yaml
+name: Your Name Here
+skills:
+  - Coding 💻
+  - Gaming 🎮
+  - Learning Everyday 📚
+quote: "Strive for progress, not perfection."
+favorite_language: "JavaScript"
