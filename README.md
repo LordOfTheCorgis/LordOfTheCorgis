@@ -10,7 +10,6 @@
 
 ```yaml
 name: LordOfTheCorgis
-role: Software Engineering Student @ LSU
 education: Louisiana State University (Computer Science - Software Engineering)
 skills: [JavaScript, Lua, Java]
 currently_learning: ["Node.js, Discord.js, HTML/CSS, Git, React, FiveM Development"]
