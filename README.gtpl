@@ -3,14 +3,14 @@
 <p align="center">Building reliable infrastructure for businesses and developers.</p>
 
 <p align="center">
-  <a href="https://lumixsolutions.org" target="_blank" rel="noreferrer">🌐 Website</a>
+  <a href="https://lumixsolutions.org" target="_blank" rel="noreferrer">Website</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/LordOfTheCorgis" target="_blank" rel="noreferrer">💻 GitHub</a>
+  <a href="https://github.com/LordOfTheCorgis" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 
 ---
 
-### 🛰️ Lumix Solutions
+### Lumix Solutions
 
 Infrastructure built by engineers. Reliable compute, game server hosting, voice infrastructure, and enterprise-grade DDoS protection, built by people from sysadmin, network engineering, and software backgrounds who wanted something they'd actually use themselves.
 
@@ -22,7 +22,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ---
 
-### 📌 Featured
+### Featured
 
 - [lumix-website](https://github.com/LordOfTheCorgis/lumix-website) — Lumix Solutions marketing site
 - [lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) — Lumix control panel
@@ -30,32 +30,38 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ---
 
-### 🚀 Latest Projects
+### Latest Projects
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-### ✍️ Recent Pull Requests
+### Recent Pull Requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
-### ⚡ Currently Building
+### Currently Building
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
-### 💫 Recently Starred
+### Recently Starred
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center"><img src="https://raw.githubusercontent.com/LordOfTheCorgis/LordOfTheCorgis/main/github-metrics.svg" /></p>
 
-### 📫 Reach Me
-- 🌐 Website : <https://lumixsolutions.org>
-- 💻 GitHub : <https://github.com/LordOfTheCorgis>
+### Reach Me
+
+**Personal**
+- Discord : `corgi.ssh`
+- Email : <evanvoisel.official@gmail.com>
+
+**Lumix Solutions**
+- Email : <admin@lumixsolutions.org>
+- Discord : <https://discord.gg/uaNYBJQtvn>
