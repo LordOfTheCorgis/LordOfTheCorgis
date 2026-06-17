@@ -3,14 +3,14 @@
 <p align="center">Building reliable infrastructure for businesses and developers.</p>
 
 <p align="center">
-  <a href="https://lumixsolutions.org" target="_blank" rel="noreferrer">🌐 Website</a>
+  <a href="https://lumixsolutions.org" target="_blank" rel="noreferrer">Website</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/LordOfTheCorgis" target="_blank" rel="noreferrer">💻 GitHub</a>
+  <a href="https://github.com/LordOfTheCorgis" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 
 ---
 
-### 🛰️ Lumix Solutions
+### Lumix Solutions
 
 Infrastructure built by engineers. Reliable compute, game server hosting, voice infrastructure, and enterprise-grade DDoS protection, built by people from sysadmin, network engineering, and software backgrounds who wanted something they'd actually use themselves.
 
@@ -22,7 +22,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ---
 
-### 📌 Featured
+### Featured
 
 - [lumix-website](https://github.com/LordOfTheCorgis/lumix-website) — Lumix Solutions marketing site
 - [lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) — Lumix control panel
@@ -30,7 +30,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ---
 
-### 🚀 Latest Projects
+### Latest Projects
 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
@@ -38,7 +38,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 - [LordOfTheCorgis/lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) - 
 - [LordOfTheCorgis/siren-id-fixer](https://github.com/LordOfTheCorgis/siren-id-fixer) - 
 
-### ✍️ Recent Pull Requests
+### Recent Pull Requests
 
 - [Completed SEO Pass on Main Website](https://github.com/LordOfTheCorgis/lumix-website/pull/3) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Updated Partner&#39;s Page to include all newest Partners](https://github.com/LordOfTheCorgis/lumix-website/pull/2) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
@@ -46,7 +46,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 - [Calendar View &#43; Sorting by Due Date](https://github.com/kanbn/kan/pull/481) on [kanbn/kan](https://github.com/kanbn/kan)
 - [Added a calendar view for tasks with due-dates](https://github.com/kanbn/kan/pull/467) on [kanbn/kan](https://github.com/kanbn/kan)
 
-### ⚡ Currently Building
+### Currently Building
 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
@@ -54,15 +54,21 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
 - [LordOfTheCorgis/auto-clicker](https://github.com/LordOfTheCorgis/auto-clicker) - 
 
-### 💫 Recently Starred
+### Recently Starred
 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center"><img src="https://raw.githubusercontent.com/LordOfTheCorgis/LordOfTheCorgis/main/github-metrics.svg" /></p>
 
-### 📫 Reach Me
-- 🌐 Website : <https://lumixsolutions.org>
-- 💻 GitHub : <https://github.com/LordOfTheCorgis>
+### Reach Me
+
+**Personal**
+- Discord : `corgi.ssh`
+- Email : <evanvoisel.official@gmail.com>
+
+**Lumix Solutions**
+- Email : <admin@lumixsolutions.org>
+- Discord : <https://discord.gg/uaNYBJQtvn>
