@@ -2,10 +2,18 @@
 <p align="center"><b>Founder &amp; CEO of <a href="https://lumixsolutions.org">Lumix Solutions LLC</a></b></p>
 <p align="center">Building reliable infrastructure for businesses and developers.</p>
 
+<h3 align="center">Links &amp; Socials</h3>
+
 <p align="center">
-  <a href="https://lumixsolutions.org" target="_blank" rel="noreferrer">Website</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/LordOfTheCorgis" target="_blank" rel="noreferrer">GitHub</a>
+  <a href="https://lumixsolutions.org" target="_blank" rel="noreferrer"><b>Main Website</b></a> &nbsp;·&nbsp;
+  <a href="https://panel.lumixsolutions.org" target="_blank" rel="noreferrer"><b>Server Panel</b></a> &nbsp;·&nbsp;
+  <a href="https://billing.lumixsolutions.org" target="_blank" rel="noreferrer"><b>Billing Portal</b></a>
+  <br>
+  <a href="https://discord.gg/uaNYBJQtvn" target="_blank" rel="noreferrer"><b>Discord</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/lumixsolutionsllc/" target="_blank" rel="noreferrer"><b>Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://tiktok.com/@lumix.solutions" target="_blank" rel="noreferrer"><b>TikTok</b></a> &nbsp;·&nbsp;
+  <a href="https://youtube.com/@officiallumixsolutions" target="_blank" rel="noreferrer"><b>YouTube</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/LumixSolutions" target="_blank" rel="noreferrer"><b>X / Twitter</b></a>
 </p>
 
 ---
