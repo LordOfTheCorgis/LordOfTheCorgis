@@ -10,6 +10,12 @@
 
 ---
 
+### GitHub Stats
+
+<p align="center"><img src="https://raw.githubusercontent.com/LordOfTheCorgis/LordOfTheCorgis/main/github-metrics.svg" /></p>
+
+---
+
 ### Lumix Solutions
 
 Infrastructure built by engineers. Reliable compute, game server hosting, voice infrastructure, and enterprise-grade DDoS protection, built by people from sysadmin, network engineering, and software backgrounds who wanted something they'd actually use themselves.
@@ -58,10 +64,6 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 
 ---
-
-### GitHub Stats
-
-<p align="center"><img src="https://raw.githubusercontent.com/LordOfTheCorgis/LordOfTheCorgis/main/github-metrics.svg" /></p>
 
 ### Reach Me
 
