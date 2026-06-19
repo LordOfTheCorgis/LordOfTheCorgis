@@ -62,9 +62,9 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Currently Building
 
+- [LordOfTheCorgis/lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) - 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
-- [LordOfTheCorgis/lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) - 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
 - [LordOfTheCorgis/auto-clicker](https://github.com/LordOfTheCorgis/auto-clicker) - 
 
