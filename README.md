@@ -46,11 +46,11 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Latest Projects
 
+- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
 - [LordOfTheCorgis/auto-clicker](https://github.com/LordOfTheCorgis/auto-clicker) - 
 - [LordOfTheCorgis/lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) - 
-- [LordOfTheCorgis/siren-id-fixer](https://github.com/LordOfTheCorgis/siren-id-fixer) - 
 
 ### Recent Pull Requests
 
