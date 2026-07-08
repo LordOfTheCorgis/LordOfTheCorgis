@@ -70,6 +70,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recently Starred
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 ---
 
