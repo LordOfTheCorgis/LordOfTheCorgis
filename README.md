@@ -62,8 +62,8 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Currently Building
 
-- [LordOfTheCorgis/custom-minecraft-launcher](https://github.com/LordOfTheCorgis/custom-minecraft-launcher) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
+- [LordOfTheCorgis/custom-minecraft-launcher](https://github.com/LordOfTheCorgis/custom-minecraft-launcher) - 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [Arc-FiveM-Framework/arc](https://github.com/Arc-FiveM-Framework/arc) - 
