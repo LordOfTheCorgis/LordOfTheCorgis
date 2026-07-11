@@ -54,17 +54,17 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recent Pull Requests
 
+- [Zach dev](https://github.com/LordOfTheCorgis/lumix-website/pull/6) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Completed SEO Pass on Main Website](https://github.com/LordOfTheCorgis/lumix-website/pull/3) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Updated Partner&#39;s Page to include all newest Partners](https://github.com/LordOfTheCorgis/lumix-website/pull/2) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Added socials to footer and removed github link](https://github.com/LordOfTheCorgis/lumix-website/pull/1) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Calendar View &#43; Sorting by Due Date](https://github.com/kanbn/kan/pull/481) on [kanbn/kan](https://github.com/kanbn/kan)
-- [Added a calendar view for tasks with due-dates](https://github.com/kanbn/kan/pull/467) on [kanbn/kan](https://github.com/kanbn/kan)
 
 ### Currently Building
 
+- [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
 - [LordOfTheCorgis/custom-minecraft-launcher](https://github.com/LordOfTheCorgis/custom-minecraft-launcher) - 
-- [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
 - [Arc-FiveM-Framework/arc](https://github.com/Arc-FiveM-Framework/arc) - 
 
