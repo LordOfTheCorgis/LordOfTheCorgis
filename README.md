@@ -70,6 +70,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recently Starred
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 ---
