@@ -54,11 +54,11 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recent Pull Requests
 
+- [Changed careers link (and removed graffiti)](https://github.com/LordOfTheCorgis/lumix-website/pull/7) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Zach dev](https://github.com/LordOfTheCorgis/lumix-website/pull/6) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Completed SEO Pass on Main Website](https://github.com/LordOfTheCorgis/lumix-website/pull/3) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Updated Partner&#39;s Page to include all newest Partners](https://github.com/LordOfTheCorgis/lumix-website/pull/2) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Added socials to footer and removed github link](https://github.com/LordOfTheCorgis/lumix-website/pull/1) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
-- [Calendar View &#43; Sorting by Due Date](https://github.com/kanbn/kan/pull/481) on [kanbn/kan](https://github.com/kanbn/kan)
 
 ### Currently Building
 
@@ -70,6 +70,7 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recently Starred
 
+- [secfantasy/secfantasy](https://github.com/secfantasy/secfantasy) - 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
