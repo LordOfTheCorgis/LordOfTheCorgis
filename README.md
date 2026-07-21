@@ -46,27 +46,27 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Latest Projects
 
+- [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines) - 
 - [LordOfTheCorgis/custom-minecraft-launcher](https://github.com/LordOfTheCorgis/custom-minecraft-launcher) - 
 - [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
 - [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
-- [LordOfTheCorgis/auto-clicker](https://github.com/LordOfTheCorgis/auto-clicker) - 
 
 ### Recent Pull Requests
 
+- [Add Monday competitor pricing review (initial baseline)](https://github.com/LordOfTheCorgis/lumix-routines/pull/1) on [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines)
 - [Changed careers link (and removed graffiti)](https://github.com/LordOfTheCorgis/lumix-website/pull/7) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Zach dev](https://github.com/LordOfTheCorgis/lumix-website/pull/6) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Completed SEO Pass on Main Website](https://github.com/LordOfTheCorgis/lumix-website/pull/3) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Updated Partner&#39;s Page to include all newest Partners](https://github.com/LordOfTheCorgis/lumix-website/pull/2) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
-- [Added socials to footer and removed github link](https://github.com/LordOfTheCorgis/lumix-website/pull/1) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 
 ### Currently Building
 
-- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
+- [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines) - 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
+- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
 - [LordOfTheCorgis/custom-minecraft-launcher](https://github.com/LordOfTheCorgis/custom-minecraft-launcher) - 
-- [LordOfTheCorgis/jv3signs](https://github.com/LordOfTheCorgis/jv3signs) - 
 
 ### Recently Starred
 
