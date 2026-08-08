@@ -46,11 +46,11 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Latest Projects
 
+- [LordOfTheCorgis/tbp-bot](https://github.com/LordOfTheCorgis/tbp-bot) - 
 - [LordOfTheCorgis/fivem-mark43](https://github.com/LordOfTheCorgis/fivem-mark43) - 
 - [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines) - 
 - [LordOfTheCorgis/custom-minecraft-launcher](https://github.com/LordOfTheCorgis/custom-minecraft-launcher) - 
 - [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
-- [LordOfTheCorgis/docs](https://github.com/LordOfTheCorgis/docs) - 
 
 ### Recent Pull Requests
 
@@ -62,11 +62,11 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Currently Building
 
+- [LordOfTheCorgis/tbp-bot](https://github.com/LordOfTheCorgis/tbp-bot) - 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/fivem-mark43](https://github.com/LordOfTheCorgis/fivem-mark43) - 
 - [LordOfTheCorgis/lumi-panel](https://github.com/LordOfTheCorgis/lumi-panel) - 
 - [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
-- [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines) - 
 
 ### Recently Starred
 
