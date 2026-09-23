@@ -46,11 +46,11 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Latest Projects
 
-- [LordOfTheCorgis/portfolio](https://github.com/LordOfTheCorgis/portfolio) - 
 - [LordOfTheCorgis/subway-surfers-workout](https://github.com/LordOfTheCorgis/subway-surfers-workout) - 
 - [LordOfTheCorgis/facial-expression-recognition](https://github.com/LordOfTheCorgis/facial-expression-recognition) - 
 - [LordOfTheCorgis/lumi-wings](https://github.com/LordOfTheCorgis/lumi-wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 - [LordOfTheCorgis/lumi-panel-v2](https://github.com/LordOfTheCorgis/lumi-panel-v2) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+- [LordOfTheCorgis/tbp-bot](https://github.com/LordOfTheCorgis/tbp-bot) - 
 
 ### Recent Pull Requests
 
@@ -64,9 +64,9 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 - [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
-- [LordOfTheCorgis/portfolio](https://github.com/LordOfTheCorgis/portfolio) - 
 - [LordOfTheCorgis/subway-surfers-workout](https://github.com/LordOfTheCorgis/subway-surfers-workout) - 
 - [LordOfTheCorgis/lumi-panel-v2](https://github.com/LordOfTheCorgis/lumi-panel-v2) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+- [LordOfTheCorgis/lumi-wings](https://github.com/LordOfTheCorgis/lumi-wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 
 ### Recently Starred
 
