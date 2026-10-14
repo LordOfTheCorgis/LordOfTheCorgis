@@ -62,9 +62,9 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Currently Building
 
+- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [GDSCLSU/Github-Workshop-Fall-2026](https://github.com/GDSCLSU/Github-Workshop-Fall-2026) - This is the repository for the Github Workshop for the Fall of 2026 for the Google Developer&#39;s Group @ LSU.
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
-- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [LordOfTheCorgis/subway-surfers-workout](https://github.com/LordOfTheCorgis/subway-surfers-workout) - 
 - [LordOfTheCorgis/lumi-wings](https://github.com/LordOfTheCorgis/lumi-wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 
