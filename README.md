@@ -54,16 +54,16 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recent Pull Requests
 
+- [Added my own member file](https://github.com/GDSCLSU/Github-Workshop-Fall-2026/pull/2) on [GDSCLSU/Github-Workshop-Fall-2026](https://github.com/GDSCLSU/Github-Workshop-Fall-2026)
 - [Add Monday competitor pricing review (initial baseline)](https://github.com/LordOfTheCorgis/lumix-routines/pull/1) on [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines)
 - [Changed careers link (and removed graffiti)](https://github.com/LordOfTheCorgis/lumix-website/pull/7) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Zach dev](https://github.com/LordOfTheCorgis/lumix-website/pull/6) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Completed SEO Pass on Main Website](https://github.com/LordOfTheCorgis/lumix-website/pull/3) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
-- [Updated Partner&#39;s Page to include all newest Partners](https://github.com/LordOfTheCorgis/lumix-website/pull/2) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 
 ### Currently Building
 
-- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [GDSCLSU/Github-Workshop-Fall-2026](https://github.com/GDSCLSU/Github-Workshop-Fall-2026) - This is the repository for the Github Workshop for the Fall of 2026 for the Google Developer&#39;s Group @ LSU.
+- [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
 - [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/subway-surfers-workout](https://github.com/LordOfTheCorgis/subway-surfers-workout) - 
 - [LordOfTheCorgis/lumi-wings](https://github.com/LordOfTheCorgis/lumi-wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
