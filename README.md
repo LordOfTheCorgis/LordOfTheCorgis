@@ -54,11 +54,11 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Recent Pull Requests
 
+- [Terms: EU/EEA/UK withdrawal-right waiver (immediate performance)](https://github.com/LordOfTheCorgis/lumix-website/pull/12) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
+- [Add &#34;What happens after you pay&#34; section to every game page](https://github.com/LordOfTheCorgis/lumix-website/pull/11) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [docs: onboarding guide &#43; CLAUDE.md for redesign](https://github.com/LordOfTheCorgis/lumix-website/pull/10) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [docs: onboarding guide &#43; CLAUDE.md for main](https://github.com/LordOfTheCorgis/lumix-website/pull/9) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [Added my own member file](https://github.com/GDSCLSU/Github-Workshop-Fall-2026/pull/2) on [GDSCLSU/Github-Workshop-Fall-2026](https://github.com/GDSCLSU/Github-Workshop-Fall-2026)
-- [Add Monday competitor pricing review (initial baseline)](https://github.com/LordOfTheCorgis/lumix-routines/pull/1) on [LordOfTheCorgis/lumix-routines](https://github.com/LordOfTheCorgis/lumix-routines)
-- [Changed careers link (and removed graffiti)](https://github.com/LordOfTheCorgis/lumix-website/pull/7) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 
 ### Currently Building
 
