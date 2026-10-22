@@ -58,7 +58,6 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 - [Add &#34;What happens after you pay&#34; section to every game page](https://github.com/LordOfTheCorgis/lumix-website/pull/11) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [docs: onboarding guide &#43; CLAUDE.md for redesign](https://github.com/LordOfTheCorgis/lumix-website/pull/10) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
 - [docs: onboarding guide &#43; CLAUDE.md for main](https://github.com/LordOfTheCorgis/lumix-website/pull/9) on [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website)
-- [Added my own member file](https://github.com/GDSCLSU/Github-Workshop-Fall-2026/pull/2) on [GDSCLSU/Github-Workshop-Fall-2026](https://github.com/GDSCLSU/Github-Workshop-Fall-2026)
 
 ### Currently Building
 
