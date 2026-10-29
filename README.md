@@ -84,5 +84,5 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 - Email : <evanvoisel.official@gmail.com>
 
 **Lumix Solutions**
-- Email : <evanv@lumixsolutions.org>
+- Email : <admin@lumixsolutions.org>
 - Discord : <https://discord.gg/uaNYBJQtvn>
