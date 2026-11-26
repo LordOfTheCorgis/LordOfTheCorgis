@@ -61,19 +61,19 @@ Infrastructure built by engineers. Reliable compute, game server hosting, voice 
 
 ### Currently Building
 
-- [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [LordOfTheCorgis/kez-modifications](https://github.com/LordOfTheCorgis/kez-modifications) - 
+- [LordOfTheCorgis/lumix-website](https://github.com/LordOfTheCorgis/lumix-website) - 
 - [GDSCLSU/Github-Workshop-Fall-2026](https://github.com/GDSCLSU/Github-Workshop-Fall-2026) - This is the repository for the Github Workshop for the Fall of 2026 for the Google Developer&#39;s Group @ LSU.
 - [LordOfTheCorgis/subway-surfers-workout](https://github.com/LordOfTheCorgis/subway-surfers-workout) - 
 - [LordOfTheCorgis/lumi-wings](https://github.com/LordOfTheCorgis/lumi-wings) - The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.
 
 ### Recently Starred
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx modification frameworks, such as FiveM and RedM, as well as FXServer.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 ---
 
